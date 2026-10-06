@@ -8,7 +8,7 @@
  * termsUrl     → "Termos de Uso" no rodapé (sem URL, o item aparece como texto).
  */
 window.SITE_CONFIG = {
-  checkoutUrl: '',
+  checkoutUrl: 'https://payment.ticto.app/O211820B7',
   privacyUrl: '',
   termsUrl: ''
 };
